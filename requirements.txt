@@ -7,5 +7,6 @@ google-api-python-client==2.108.0
 langgraph==0.0.26
 langchain==0.0.350
 langchain-openai==0.0.2
+langsmith==0.1.25
 python-dateutil==2.8.2
 requests==2.31.0
